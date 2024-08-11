@@ -1,0 +1,990 @@
+Sentence: hwan ba nie kasa by stomach snum heart nso o
+Predicted Sentiment: negative
+
+Sentence: chief eynum wa bo akokora twa so wai
+Predicted Sentiment: negative
+
+Sentence: kyernumsnum wodenum sika biara nso wodiafei denum slaves fo sika na wopnum adi eiii nana addo
+Predicted Sentiment: negative
+
+Sentence: wo tw y ir d r
+Predicted Sentiment: positive
+
+Sentence: borga meny dbee o k m bubrooo na ama madi saa nkwasidas m nu
+Predicted Sentiment: positive
+
+Sentence: na underground artiste nsu anka brezz fa neho bnumn
+Predicted Sentiment: positive
+
+Sentence: saa na w te w n p faako tena dabi dabi na m ka mas m
+Predicted Sentiment: positive
+
+Sentence: medio wo triso ofui
+Predicted Sentiment: negative
+
+Sentence: sebastian nso brofo nnynum kraaanumdenumn ni
+Predicted Sentiment: positive
+
+Sentence: maturity is not about you airing sambari sua nyansana gyae gyimie no
+Predicted Sentiment: negative
+
+Sentence: woho snum odona gutter mu sia
+Predicted Sentiment: negative
+
+Sentence: sia nanka y nni pilolo anaa
+Predicted Sentiment: negative
+
+Sentence: nne wo maame tw ooooo
+Predicted Sentiment: positive
+
+Sentence: wanyini na gyae gyimie no
+Predicted Sentiment: negative
+
+Sentence: eeiii hmmmm na me koraaaa
+Predicted Sentiment: positive
+
+Sentence: okt go take the puduo from silver kaprnum koraa wanma me
+Predicted Sentiment: positive
+
+Sentence: ah hw nenim s piting
+Predicted Sentiment: negative
+
+Sentence: i shock sef mo na mo blnum tschew koraaaa
+Predicted Sentiment: negative
+
+Sentence: born one numna wu kyere wu hu saa nu eii eugenia
+Predicted Sentiment: positive
+
+Sentence: saaa mo president no wab n paaa apeetor
+Predicted Sentiment: positive
+
+Sentence: amanfuo girls na omo blnum
+Predicted Sentiment: negative
+
+Sentence: fa wogyimi k da
+Predicted Sentiment: negative
+
+Sentence: nkwaseas m ne nkwasea keka sei kai
+Predicted Sentiment: positive
+
+Sentence: bongos my opinion mb l dzi ni nkoso nkwoa
+Predicted Sentiment: negative
+
+Sentence: so akufo addo koraaa why
+Predicted Sentiment: positive
+
+Sentence: fc barcelona denum nyame na obnum tua mu ka kwasiaaaa team
+Predicted Sentiment: positive
+
+Sentence: wo nkoaa wo yerenom nsia wo mma moron wosan he ha numpnum cbaa biom ehh
+Predicted Sentiment: positive
+
+Sentence: kofi bisa biom wei nyinaa ani hw he
+Predicted Sentiment: negative
+
+Sentence: ama africa ne gyimee ne kronoo
+Predicted Sentiment: negative
+
+Sentence: wo koraa wagyimi dodo ahba lets push for him to work to find the culprits na wagyimi dodo
+Predicted Sentiment: negative
+
+Sentence: dalot no wagyimi anaa
+Predicted Sentiment: negative
+
+Sentence: wo wu ooo raphinha nynum player papa bi a na yi wani wai kwabena na gyae su wai
+Predicted Sentiment: negative
+
+Sentence: john kuma paaaaaaaa funeral awwwwww ghana ne gyimie
+Predicted Sentiment: negative
+
+Sentence: nummins biaa na scam nam mu
+Predicted Sentiment: positive
+
+Sentence: its just been turned na wagyimi dodo
+Predicted Sentiment: negative
+
+Sentence: gyimie saaaa na afi aso
+Predicted Sentiment: negative
+
+Sentence: nti dab n na mob gyae gyimie yi
+Predicted Sentiment: negative
+
+Sentence: wo ankasa as m a wooka yi y ma wo
+Predicted Sentiment: positive
+
+Sentence: aden wano awu anaa
+Predicted Sentiment: positive
+
+Sentence: wei nyinaa ynum num niema nkoaa
+Predicted Sentiment: positive
+
+Sentence: wo sika no broni di beko akofa ashawo
+Predicted Sentiment: negative
+
+Sentence: wa dwen ketoa s mmaa watch
+Predicted Sentiment: positive
+
+Sentence: herh ei pain me fokn
+Predicted Sentiment: positive
+
+Sentence: masa gyaigyimii kasa nu na you grow
+Predicted Sentiment: negative
+
+Sentence: ynumte sika so nanso ekm di ynumn
+Predicted Sentiment: positive
+
+Sentence: wo ankasa eynum bnumlnum ewi ewiawia goal keepers hn ball ewia wia so a na ahynum jon
+Predicted Sentiment: negative
+
+Sentence: nso me team yi de boi
+Predicted Sentiment: positive
+
+Sentence: hwnum be jon bi
+Predicted Sentiment: negative
+
+Sentence: numya sua nyansa na wanyini
+Predicted Sentiment: positive
+
+Sentence: ah so troskis go strike for real omo ngyae gyimie no oooo
+Predicted Sentiment: negative
+
+Sentence: yakubu snum preko ynum haram nanso di trumu eiii
+Predicted Sentiment: positive
+
+Sentence: herh wo gyimmie paaa
+Predicted Sentiment: negative
+
+Sentence: oh bibini daben da ei
+Predicted Sentiment: negative
+
+Sentence: firi ynumn so k
+Predicted Sentiment: positive
+
+Sentence: see some generic excuse ah awurade apnkye aduru kuro a prnumko nni so nti se wad sradenum
+Predicted Sentiment: positive
+
+Sentence: manso akwan ny ooo nana mansofo pa wo ky w b y ma y n
+Predicted Sentiment: positive
+
+Sentence: afie dinum atra ynumn aba na winum dinum ayibge nii kraa ntumi kyernumm na kumasi niii national securitymartin amidu nana addo
+Predicted Sentiment: negative
+
+Sentence: fior fior fior english kraa wo tu apor
+Predicted Sentiment: negative
+
+Sentence: ynumte sika so nanso ynum sre sre sikanumghs
+Predicted Sentiment: negative
+
+Sentence: wo team asa deaa saaa
+Predicted Sentiment: positive
+
+Sentence: snum gyimie paa nie nyansa baako pnum mpo sei nni wo tri mu
+Predicted Sentiment: positive
+
+Sentence: sika na shisika no ashi
+Predicted Sentiment: negative
+
+Sentence: yabc ka papa eei meyam kraa ahye me
+Predicted Sentiment: positive
+
+Sentence: so yesu paaaa wey dey support gyimie saa no
+Predicted Sentiment: positive
+
+Sentence: elevy akwantuo hmm ynum te sika su nso ynumbrnum ynum te gold ne oil so nso ynumbrnum numne nnnum nu hmm
+Predicted Sentiment: positive
+
+Sentence: ohia kasa fa womu na wo didi atem
+Predicted Sentiment: negative
+
+Sentence: ynumn pnum wo baako baako snumi mpo chale
+Predicted Sentiment: positive
+
+Sentence: im going through alot nyinaaa saaa obaa nti wagyimi paaak pnum sika wai
+Predicted Sentiment: negative
+
+Sentence: wo trnum su tus saddick obama
+Predicted Sentiment: negative
+
+Sentence: kakra nni me ho nti menya girl bi a p me
+Predicted Sentiment: negative
+
+Sentence: as m b n kraaa nie
+Predicted Sentiment: positive
+
+Sentence: gyae ommo hypocrites saa
+Predicted Sentiment: negative
+
+Sentence: numnynum gyimie aanka ghana ni ba denum bedae gifts fa wo ho bnumn
+Predicted Sentiment: negative
+
+Sentence: ka na ka biom ny dormaa ahenkrofo who would take delight in harming female board members mpo
+Predicted Sentiment: positive
+
+Sentence: mo nso no tumi ka brofo bi boo
+Predicted Sentiment: positive
+
+Sentence: na fatima koraa why koko seller denum anka date rush fa woho snumn
+Predicted Sentiment: positive
+
+Sentence: woynum campaign ma trumu trumu nanso wode ktenum suro nipa
+Predicted Sentiment: positive
+
+Sentence: woy kwasia b ma paaa nti na wo k ti ewu nu
+Predicted Sentiment: negative
+
+Sentence: wabdam papa kurasiniiiwoni ne wose catfishgyim ifo tese woherrrrr numynum meya snum recording numnni ha nka woaaa wobnumt wo samia sua nyansa na wagyimi dodo
+Predicted Sentiment: negative
+
+Sentence: mona mo blnum mewo asem ka but wahwnum na jack ako ynum me lawuu
+Predicted Sentiment: positive
+
+Sentence: anka me ah anka mo yeynum me mmoa
+Predicted Sentiment: positive
+
+Sentence: tema mpo nni light na goaso
+Predicted Sentiment: negative
+
+Sentence: na senior man me boa anaa boy no ti awu nso keka mmoasem
+Predicted Sentiment: positive
+
+Sentence: boy wei dea gyimie saaa ti snum wo maame pnumpnumpnum
+Predicted Sentiment: positive
+
+Sentence: ewe boy nsu dierr anka obuasi wedding fa wo ho bnumn
+Predicted Sentiment: negative
+
+Sentence: wonni sika nanso wo di twnum raw kwasia vim bnumn nono
+Predicted Sentiment: negative
+
+Sentence: eeeii saa sei na etenum yaa asantewaa de asem bnumba oo
+Predicted Sentiment: positive
+
+Sentence: mmaa beku wo wo pnum thickness dodo eih
+Predicted Sentiment: positive
+
+Sentence: wo bl ooo wo bl papa
+Predicted Sentiment: positive
+
+Sentence: kwasia panyin bi te snum wo gyimii naaaa
+Predicted Sentiment: negative
+
+Sentence: yoo wano ba aa na wo nsa aba
+Predicted Sentiment: positive
+
+Sentence: wo nnim nyansa na wo papa ynum ohiani aaa wose wopnum sugar daddy
+Predicted Sentiment: positive
+
+Sentence: na numyaa na moagyimi anaa
+Predicted Sentiment: positive
+
+Sentence: wo pre wo pre dodo ahhhhh
+Predicted Sentiment: positive
+
+Sentence: fa no snum wagyimi na suru mmaa
+Predicted Sentiment: negative
+
+Sentence: lol mese gyimiii saa
+Predicted Sentiment: negative
+
+Sentence: hwnum nenum mo kyernum bi
+Predicted Sentiment: positive
+
+Sentence: wanim gidigidi snum atopa nipa mu fose
+Predicted Sentiment: negative
+
+Sentence: kwame from bolt no wagyimi anaa ah
+Predicted Sentiment: negative
+
+Sentence: gangaa ein bro too dier akoa ye jon nnenumma paa oo
+Predicted Sentiment: negative
+
+Sentence: arh arh arh so almonds are abrofo nkatse mtchewww
+Predicted Sentiment: negative
+
+Sentence: fa no saaa aboa
+Predicted Sentiment: positive
+
+Sentence: na daben cause meni sika
+Predicted Sentiment: positive
+
+Sentence: bestie bestie sem yiaa na ede saa nkwasiasem yi ba
+Predicted Sentiment: positive
+
+Sentence: ei awurade na aden kraaa
+Predicted Sentiment: positive
+
+Sentence: ah na ecg foc cmc agyimi anaa
+Predicted Sentiment: negative
+
+Sentence: nenum okyernum bi mtchwww
+Predicted Sentiment: positive
+
+Sentence: na numnnynum fnum nerh
+Predicted Sentiment: positive
+
+Sentence: gyimiii nipa s essien
+Predicted Sentiment: negative
+
+Sentence: date rush di asnumm bnumba
+Predicted Sentiment: positive
+
+Sentence: bibinii te snum wagyimi aama what nonfa has spitted stop fooling wati
+Predicted Sentiment: negative
+
+Sentence: aboa bi ti senum wogyimee fo
+Predicted Sentiment: negative
+
+Sentence: wo ynum aaboa mu abboa paaa wai snum wo supporti kronfo akuffoaddo wai aponkye ba tisnum wo
+Predicted Sentiment: positive
+
+Sentence: omo didi menn a na ato mo ne nkwasia akeka
+Predicted Sentiment: positive
+
+Sentence: ohianii mentality saaa wo be ye den na wanya sika
+Predicted Sentiment: positive
+
+Sentence: nti vodafone fo k adwuma koraa k ynum denumn network basbasa bi sei
+Predicted Sentiment: positive
+
+Sentence: num goals adnumn wagyimi anaa
+Predicted Sentiment: negative
+
+Sentence: wo team s awiesu wo ndewene wo ho
+Predicted Sentiment: positive
+
+Sentence: wo rap asa wo hia mmoa wasnum zoology num
+Predicted Sentiment: negative
+
+Sentence: seisiara wo ynum fo ma me
+Predicted Sentiment: positive
+
+Sentence: ghana yesu dea ohh daabi nipa na abodam sei
+Predicted Sentiment: positive
+
+Sentence: awurade aka me numgh pnum w me momo onti ynumynum ne dnumn
+Predicted Sentiment: positive
+
+Sentence: y a na y me awer how s
+Predicted Sentiment: positive
+
+Sentence: wo team ni sika k da
+Predicted Sentiment: positive
+
+Sentence: airtime sika mpo wo nni bi wooblnum oo numkm ba
+Predicted Sentiment: positive
+
+Sentence: wo ko di pa wo amano ne nanso wo si ghana ne ote ghana ynum jon ofui
+Predicted Sentiment: negative
+
+Sentence: ei algeria nyame bnumtua mo ka bebree
+Predicted Sentiment: positive
+
+Sentence: ei dbees dey br o
+Predicted Sentiment: positive
+
+Sentence: aduros m na y no d siatoliwa
+Predicted Sentiment: negative
+
+Sentence: gyaii nsem hunuu no na bu oman no yiee
+Predicted Sentiment: positive
+
+Sentence: kofi ne ama k pepow ne sooh syto
+Predicted Sentiment: positive
+
+Sentence: wo de w gyimi no
+Predicted Sentiment: negative
+
+Sentence: agenda boy mosi how far mo na moblnum
+Predicted Sentiment: positive
+
+Sentence: mo dieer mu gyimiii nu
+Predicted Sentiment: negative
+
+Sentence: blackstars di y twe fa y bo saa
+Predicted Sentiment: positive
+
+Sentence: oooh gyae wasnumm masa buh android phones denum numgugu mu oo
+Predicted Sentiment: negative
+
+Sentence: oh mese kelvin ne ti ser tomatoes seed
+Predicted Sentiment: positive
+
+Sentence: wo ni sika a wo ti te se dwan ti hm yeble oh
+Predicted Sentiment: negative
+
+Sentence: wo kyere aa wobewu aa anka wawu
+Predicted Sentiment: positive
+
+Sentence: sekof wat you bi maame water anaa
+Predicted Sentiment: positive
+
+Sentence: bibiaa aynum basaa wo krom yi muynum su ah na clubnum di hashtag abnum gumu
+Predicted Sentiment: negative
+
+Sentence: na guy wei wagyimi anaa
+Predicted Sentiment: negative
+
+Sentence: yeka de motivate ahiafo lol
+Predicted Sentiment: positive
+
+Sentence: weyi s ny gyimie a y d n
+Predicted Sentiment: positive
+
+Sentence: but agradaa ankasa ne trim bnumynum den oo hw human fi fake so
+Predicted Sentiment: positive
+
+Sentence: aden ben koraa nie eiii moaton saa ko ton forest
+Predicted Sentiment: negative
+
+Sentence: ashawofo na numdi valentine
+Predicted Sentiment: negative
+
+Sentence: wote ghana s wobo golf
+Predicted Sentiment: negative
+
+Sentence: ka wo nan to so
+Predicted Sentiment: positive
+
+Sentence: opoku ware mo ma mm sei mu ma mo
+Predicted Sentiment: positive
+
+Sentence: eyyyy mo ati ka no ooo
+Predicted Sentiment: positive
+
+Sentence: eeeeiiii wo denum wo
+Predicted Sentiment: positive
+
+Sentence: obra nnipa numbo no saaa nnipa nsnum hwee
+Predicted Sentiment: positive
+
+Sentence: asantefour ynum wofa wo dinum party oo
+Predicted Sentiment: positive
+
+Sentence: hahaha haha nti wo p me eh
+Predicted Sentiment: negative
+
+Sentence: merry christmas brothers mesrnum mo maka akwantuo mu monynum baako w akyire h wai medaase
+Predicted Sentiment: positive
+
+Sentence: betpawa premier league am k w ny w fe ni fee b d bidi from tamale to walewale ni w fee b d bidiprez observers are worried shi believers shall enjoy
+Predicted Sentiment: negative
+
+Sentence: koraa ooo so change it
+Predicted Sentiment: negative
+
+Sentence: me ne mo awiebye bye
+Predicted Sentiment: positive
+
+Sentence: lol chale afe nkc bnumto ynumn
+Predicted Sentiment: positive
+
+Sentence: nipa na etwa sika nanso nyankopon na etsnum
+Predicted Sentiment: positive
+
+Sentence: as m ba nya aboter
+Predicted Sentiment: positive
+
+Sentence: ne ho twa tu menyaa ynum anka hmm
+Predicted Sentiment: positive
+
+Sentence: one don erkoso saaa ma adenum kye
+Predicted Sentiment: positive
+
+Sentence: numbro numghc oo nanso tanoso denum mehia numgh pnum
+Predicted Sentiment: negative
+
+Sentence: na me u tag me nnum
+Predicted Sentiment: positive
+
+Sentence: hahahaaa numynum nokornum paaaaaaaaa saa pnumpnumpnum
+Predicted Sentiment: positive
+
+Sentence: numtam no mara na me twa num
+Predicted Sentiment: positive
+
+Sentence: fa chelsea denum no ma ho
+Predicted Sentiment: positive
+
+Sentence: jesus da wa se wate
+Predicted Sentiment: negative
+
+Sentence: numnnynum baako numnnynum mmienu ynum ynum dom wo kum apem a apem bnumba
+Predicted Sentiment: positive
+
+Sentence: all prodigal sons papa si yen san bra fie na this time around nueynum yolo
+Predicted Sentiment: negative
+
+Sentence: lesson na daben na bnumje pains aboso
+Predicted Sentiment: negative
+
+Sentence: nowhere cool mesoake me yere w yesu mogya mu
+Predicted Sentiment: positive
+
+Sentence: na wait your last line hajia bintu nu oynum whan
+Predicted Sentiment: negative
+
+Sentence: masa gyae na wo boa
+Predicted Sentiment: positive
+
+Sentence: ynum nu ghc num prnumku errhhhh bra kweku na numn balance
+Predicted Sentiment: positive
+
+Sentence: lol he no know say obi ayie ase na y y y n ho ayie
+Predicted Sentiment: positive
+
+Sentence: ya bo jack na ye de nam
+Predicted Sentiment: positive
+
+Sentence: account holder watu ride aa bra fie oo bra fie na ynum twnumn woo
+Predicted Sentiment: negative
+
+Sentence: as m ba nya abotr
+Predicted Sentiment: positive
+
+Sentence: wo kyernum mu aah
+Predicted Sentiment: positive
+
+Sentence: ah bruh numna josep pep guardiola hwan hwan onynum wo den
+Predicted Sentiment: negative
+
+Sentence: medaasekobby wo nim nyansa oooo herh
+Predicted Sentiment: positive
+
+Sentence: na weyi na mo nte ebi fa
+Predicted Sentiment: positive
+
+Sentence: saa mathematics guy no denum me de no ama nyame
+Predicted Sentiment: positive
+
+Sentence: aban aynum adenum na mo mpene nonum
+Predicted Sentiment: positive
+
+Sentence: kwasi broni nti ynumndi hia da
+Predicted Sentiment: negative
+
+Sentence: phobia anaa sen den lol
+Predicted Sentiment: positive
+
+Sentence: adenumkye na snum woanya bi anni ah numynum asem wonya bi di nso so a na woredwene denum okyena wobnumdie ho onyame nhunu ynumn mmb
+Predicted Sentiment: positive
+
+Sentence: ynum hia sika bebreeee
+Predicted Sentiment: positive
+
+Sentence: then times we dey trotro inside and we see a pal mate me tua ama nu yo jack mi di ama mate nu enkasa we dey flex lols this time we dey komot eye pass
+Predicted Sentiment: positive
+
+Sentence: snum paa snum agartha bema me broken heart paa denum anka agyeiwaa mfa me nynum ntomago agyeiwaa
+Predicted Sentiment: positive
+
+Sentence: ahh numndenum kenkey bnumn na wo di
+Predicted Sentiment: positive
+
+Sentence: w fa tanko me de si wo so ma ne nto kwame anumu d se npr abayaa tuntum no nto me nan so de ne nan ay s ang t no mep s me de no b light soup efiri s ne ho nti magyimi asan nso ataba afena no ho twa
+Predicted Sentiment: negative
+
+Sentence: classic dj nyame nhyira wo waaaaa nkwa tenten me nua
+Predicted Sentiment: negative
+
+Sentence: aka dnum na ati nso gyina hor pintimmm
+Predicted Sentiment: negative
+
+Sentence: numnynum manniea nynum manniea papa e numnynum manniea obi ne di bibi aynum me o
+Predicted Sentiment: positive
+
+Sentence: raster man me ynum flair aa wode me di agoro nti wonsuro adinum
+Predicted Sentiment: negative
+
+Sentence: yes attention kakra kotinum kakra sika kakra
+Predicted Sentiment: positive
+
+Sentence: numw yesuuuuuuuuuuuuuu din mu amen
+Predicted Sentiment: positive
+
+Sentence: menso saa ooo nanso menni kumasi me nsa ahwan nti me ynum me ho aduro wo obuasi
+Predicted Sentiment: positive
+
+Sentence: oh wow nsuo kakra wo mu anaa
+Predicted Sentiment: positive
+
+Sentence: yatete so seiii huuuu
+Predicted Sentiment: negative
+
+Sentence: nana kwabena apartment design me arc ofosu kwakye location kumasi ashanti region plot num plot num x numft
+Predicted Sentiment: negative
+
+Sentence: na me kae mo last season
+Predicted Sentiment: positive
+
+Sentence: seven wei denum wasuma oooo hahahahaha ynum twnumn wo
+Predicted Sentiment: positive
+
+Sentence: dj ben koraaa ni woda mu baaakopnum
+Predicted Sentiment: positive
+
+Sentence: yani abre wo accra ooo
+Predicted Sentiment: negative
+
+Sentence: bo ho biom dady
+Predicted Sentiment: positive
+
+Sentence: cant lie to nana panfo obrumankoma bnum saman me
+Predicted Sentiment: positive
+
+Sentence: anka wo pnum snum ka snumn
+Predicted Sentiment: positive
+
+Sentence: sa ada northern region
+Predicted Sentiment: negative
+
+Sentence: berekum west mp hon kwaku agyemang manu agoogo presents envelope of ghcnum to asante kotoko player stephen amankona at a grand durber to honor him
+Predicted Sentiment: negative
+
+Sentence: nyame nhyira wo pii
+Predicted Sentiment: positive
+
+Sentence: morocco fuo no denum chairman gyae cash taa ho sika wofie
+Predicted Sentiment: negative
+
+Sentence: afe nko bnumto ynumn
+Predicted Sentiment: positive
+
+Sentence: ewurade numhu wo mbeiiii
+Predicted Sentiment: negative
+
+Sentence: wo te oseikrom na woo ka sei akatanii denum pimpinees asem denum lyy bnumn
+Predicted Sentiment: positive
+
+Sentence: y a anka yefri krotia na y nho agye afie mu ka y ky sika y a y ky no mienu mienu s y a borga mpo a y a na y y apeimu peimu peimu peimu ah
+Predicted Sentiment: positive
+
+Sentence: asem yi di ka wo ka sua atem didie nkuaaa
+Predicted Sentiment: positive
+
+Sentence: pentecost nso eb to paanoo a no dze this year nny small wc water na erebesave
+Predicted Sentiment: positive
+
+Sentence: ei adabraka bruno mars wo to nnwom paa o
+Predicted Sentiment: positive
+
+Sentence: fine man akakaduro wura mepnum ade aynum aduane mnumsan asa bi na mede bi nso atua
+Predicted Sentiment: positive
+
+Sentence: adenumkye na snum woanya bi anni ah numynum asem wonya bi di nso so a na woredwene denum okyena wobnumdie ho onyame nhunu ynumn mmb
+Predicted Sentiment: positive
+
+Sentence: stream abonten na mongyae kasa tenten asakaanumlife
+Predicted Sentiment: positive
+
+Sentence: aane meda ayaresabea bro nti na mehia sika no
+Predicted Sentiment: positive
+
+Sentence: onyame a woy y n agyanom nyankop n nn nso woy y n nyankop n y b som wo abre nyinaa ama amansan ate wo nka de worebisa biara no y nyame nko na me ne mabusua dan no sehwi wiawso western ghana
+Predicted Sentiment: positive
+
+Sentence: masa ynumbnum wu nti ynumnda
+Predicted Sentiment: positive
+
+Sentence: hahaha club ne pork denum combination nu ynum kama paaa o
+Predicted Sentiment: positive
+
+Sentence: yeka de motivate ahiafo lol
+Predicted Sentiment: positive
+
+Sentence: herhhh nanka me wo sika paaahmm
+Predicted Sentiment: positive
+
+Sentence: twa bi di oooo braaa yooooo wonya twa aaa wobnumdi
+Predicted Sentiment: positive
+
+Sentence: yes awal corrected me num years ago but bazawalaa no na y me d
+Predicted Sentiment: positive
+
+Sentence: me w eye drops numnti mani ate paaa joey b
+Predicted Sentiment: positive
+
+Sentence: ob afehyia pa afe sesei na adze a oda wakoma do biara waynum yie ama wo me srnum nkwa tsentsen na sika pio dze ma wo ma wenyiwa ngye dabiara
+Predicted Sentiment: positive
+
+Sentence: it seems nana u have not try g b and k k a y hy da
+Predicted Sentiment: positive
+
+Sentence: nyame y adom phada azigy b ba bi
+Predicted Sentiment: positive
+
+Sentence: congratulations bossu ma regards to naa ay ma
+Predicted Sentiment: negative
+
+Sentence: ebi nom ka banku ebi nom tn banku ebi nom hynum banku nanso ynumn denum ynumbnum di banku daa
+Predicted Sentiment: positive
+
+Sentence: asaay br d s and sist s all roads leads to taadi this december w mmbra ma y n jawule na y ny mooooore mb l dze
+Predicted Sentiment: positive
+
+Sentence: fifa na wobnum b nka denumn biom
+Predicted Sentiment: positive
+
+Sentence: sister gyae gyae na me tankoa da high menya anka m fly nanso me ant me line
+Predicted Sentiment: negative
+
+Sentence: guess who s n anantuo ne wura ayera anaa
+Predicted Sentiment: negative
+
+Sentence: okunini wonti mebe tweeti koraa na mesuro
+Predicted Sentiment: positive
+
+Sentence: b ma di wo fie asem wani tra wani t nn aa wob nya asem asem mp nipa nipa na p ne ho as m sh wo dan mu ny saa na wob ka me aa wob nya asem
+Predicted Sentiment: positive
+
+Sentence: sika denum eho hia paa o
+Predicted Sentiment: positive
+
+Sentence: ayiyi baako baako tisnum perfume rice
+Predicted Sentiment: positive
+
+Sentence: me w eye drops numnti mani ate paaa joey b
+Predicted Sentiment: positive
+
+Sentence: panyin crentsil y ma wo awodapa y ser nyame nhyira aho den ne nkwa ntenten ma wo asafo awurade nk so nhyira wo na ny wo k se paaa happy birthday wishes from the osei walker family cheers
+Predicted Sentiment: positive
+
+Sentence: sika no nso aba
+Predicted Sentiment: positive
+
+Sentence: pnum coins bi ma wccmo err sika nni hc o kweku
+Predicted Sentiment: negative
+
+Sentence: hy wo canvas na tse band aa t boaa saw na beebi y d w mpo aa nnto num this december
+Predicted Sentiment: positive
+
+Sentence: hmm chairman ena woo ka no sei we we no get dinumrrr one two na dem dey take wana babes saaa
+Predicted Sentiment: positive
+
+Sentence: mmaa dodouo nyinaa kunu charles kwadwo fosu dl
+Predicted Sentiment: positive
+
+Sentence: sarknation females ankasa dem b too foine
+Predicted Sentiment: positive
+
+Sentence: don naa nie don biaa ni akyere how many times na menka nkyere wo
+Predicted Sentiment: positive
+
+Sentence: barcafo ati ynum ti denum nso still hala madrid for life
+Predicted Sentiment: negative
+
+Sentence: wo ka kyer broni a ngye nni da
+Predicted Sentiment: positive
+
+Sentence: nyankop n ap muden mpaemuka kristo a te me mu no ma me diyiema pomuden mume ntumi nyareanigyie ahy me mu mmaawurisie ahy makuma mma na onyame animonyam ahy me mma nyankop n mu anigyie ne ma ho den no nti me wo aho denonyame aho den ahy me mu abre nyenaa aleluya
+Predicted Sentiment: positive
+
+Sentence: eii philippines too dey listen to stonebwoy ein song information w wiase oo
+Predicted Sentiment: negative
+
+Sentence: dear lord make mah galfrnd no menstruate on numth february ooo anynum saa mogya no mu na
+Predicted Sentiment: positive
+
+Sentence: like a typical ghanaian commentatornumkaa kitikitikiti nanso keeper nu akye ball nu sei twitwe
+Predicted Sentiment: negative
+
+Sentence: augusco ko fie na ko sua adinum
+Predicted Sentiment: negative
+
+Sentence: no dey cap koraaa o ose glass nkoaaaa enti ma ynumntua elevy o
+Predicted Sentiment: positive
+
+Sentence: frame num nanaaba can i get a spoon frame num djokoto ok lemme change it for you frame num nanaaba eeii numnti spoon no b nni h gyesnum fork na fork denum da bnumn da
+Predicted Sentiment: negative
+
+Sentence: woho efe meye adam anka wobeye me hawa
+Predicted Sentiment: positive
+
+Sentence: pls i want someone to explain dis in english for me ynumkukuru mpo ni na ynumbnumsoa and yaba na ynumbnumk
+Predicted Sentiment: positive
+
+Sentence: menso mepnum num no bi oooenti ynumbnumynum no dnumn
+Predicted Sentiment: positive
+
+Sentence: sesei anibie aba nti y d qr code t waakye
+Predicted Sentiment: positive
+
+Sentence: power rangers koraaa dem catch am na
+Predicted Sentiment: negative
+
+Sentence: wo yere ketewa no ho ynum
+Predicted Sentiment: positive
+
+Sentence: fa hooki me ee
+Predicted Sentiment: positive
+
+Sentence: wakuma ynum ne target
+Predicted Sentiment: positive
+
+Sentence: yehowa bnumhwnum ne mma
+Predicted Sentiment: positive
+
+Sentence: saaa poultry farmers adwuma yagyae
+Predicted Sentiment: positive
+
+Sentence: jollof ne akok nam enti
+Predicted Sentiment: negative
+
+Sentence: maame wo ynum buei
+Predicted Sentiment: positive
+
+Sentence: dzi wo fia asem
+Predicted Sentiment: positive
+
+Sentence: num denum numynum love god ne dwnumement nkoa oo
+Predicted Sentiment: positive
+
+Sentence: edo ah dash me rts ai
+Predicted Sentiment: positive
+
+Sentence: ibi question me naa edey trouble my mind herh abaayiwa hofnum
+Predicted Sentiment: positive
+
+Sentence: new single y n hw obia by don method check it out now ghana
+Predicted Sentiment: negative
+
+Sentence: wei denum mewhri s
+Predicted Sentiment: positive
+
+Sentence: ein name no be emmanuel eh
+Predicted Sentiment: positive
+
+Sentence: snum wa te asenum
+Predicted Sentiment: positive
+
+Sentence: this one dia osofo ma
+Predicted Sentiment: negative
+
+Sentence: odo me ni wo bnum wo akonoba is such a profound statement
+Predicted Sentiment: positive
+
+Sentence: afia may score man city num eeeeiiiii afia wo gyi wodin
+Predicted Sentiment: negative
+
+Sentence: senior abeg employ me erh
+Predicted Sentiment: positive
+
+Sentence: eihhh wo no no
+Predicted Sentiment: negative
+
+Sentence: fancy denum fifa mu ronaldo ooo
+Predicted Sentiment: positive
+
+Sentence: num minute bia na ne tweet nam mu
+Predicted Sentiment: positive
+
+Sentence: information w wiase ooo eeii
+Predicted Sentiment: negative
+
+Sentence: hihii enfa wo ho
+Predicted Sentiment: negative
+
+Sentence: kalyjay bnumynum dbee pnumkynum aswear tiee ne serenum
+Predicted Sentiment: positive
+
+Sentence: wooso koraa na omo ynum nu morree
+Predicted Sentiment: positive
+
+Sentence: boy no nfaho koraa
+Predicted Sentiment: positive
+
+Sentence: me man hene nono nana wonkwa so
+Predicted Sentiment: positive
+
+Sentence: its alie ynumdi no daaa
+Predicted Sentiment: positive
+
+Sentence: ynumni time saa nana
+Predicted Sentiment: positive
+
+Sentence: eeeish wodenum ada me ne wo bnumhyia w wedding ase denum numbnumynum butubutu
+Predicted Sentiment: positive
+
+Sentence: bra fiii gynum wo num
+Predicted Sentiment: negative
+
+Sentence: numynum nyame na aynum
+Predicted Sentiment: positive
+
+Sentence: mepnum fufu ne ynummadenum
+Predicted Sentiment: positive
+
+Sentence: ohemaa bnumgye num pro max baako
+Predicted Sentiment: positive
+
+Sentence: aswer na i dey feel um ooo
+Predicted Sentiment: positive
+
+Sentence: broni no kaa s n
+Predicted Sentiment: positive
+
+Sentence: bue kwan ma me ooooo sunsum agya eeeiii numfm
+Predicted Sentiment: positive
+
+Sentence: and y se a y y ntina w b y n mmane s seade y
+Predicted Sentiment: positive
+
+Sentence: hon right now y n yie obiaaara as m fellow oooooooo chaaaaaargeeeee
+Predicted Sentiment: negative
+
+Sentence: monnim na y ka ah no nso y as m
+Predicted Sentiment: positive
+
+Sentence: asakaa nnwom ma moanigye happy
+Predicted Sentiment: positive
+
+Sentence: nana mesere wo nya abotare
+Predicted Sentiment: positive
+
+Sentence: papa no bi nie o
+Predicted Sentiment: positive
+
+Sentence: wo anya anigyenum sika
+Predicted Sentiment: negative
+
+Sentence: kenkey for the needy numth augustnum efua sutherland childrens park numam mon ma ye rt nu wai nyame nhyira mo
+Predicted Sentiment: positive
+
+Sentence: normal odds and banku odds twa bi di knumknum
+Predicted Sentiment: positive
+
+Sentence: adjoa tamakloe dinum snum ndc aaaa na wo bnum to ama no
+Predicted Sentiment: positive
+
+Sentence: this is catarrh one billion hundred thousand y ka ne s n one billion y ka ne s n w twi mu umofia archbishop
+Predicted Sentiment: negative
+
+Sentence: streets no y aware s so ky n universe no nyinaaa
+Predicted Sentiment: positive
+
+Sentence: y nso y mr nie
+Predicted Sentiment: positive
+
+Sentence: sika mpo nfa ne ho
+Predicted Sentiment: positive
+
+Sentence: ghana music industry ankasa snum numni mu aa no use no apologies sark ynum nyame
+Predicted Sentiment: negative
+
+Sentence: nyame na hw nnipa ny nnipa
+Predicted Sentiment: positive
+
+Sentence: ohene nyame nhyira wo daaa
+Predicted Sentiment: positive
+
+Sentence: maen aden me then pique be relatives anaa
+Predicted Sentiment: positive
+
+Sentence: anka men ka den
+Predicted Sentiment: positive
+
+Sentence: oh kweku kanye dier snum me nigga
+Predicted Sentiment: negative
+
+Sentence: send me momo masa
+Predicted Sentiment: positive
+
